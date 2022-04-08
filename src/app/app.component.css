@@ -1,0 +1,11 @@
+.main-container {
+  height: 100%;
+}
+
+.page-container {
+  margin-top: 2rem;
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
